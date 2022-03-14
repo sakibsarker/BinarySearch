@@ -1,4 +1,6 @@
 ![Screenshot from 2022-03-14 13-16-51](https://user-images.githubusercontent.com/95316668/158128489-6d8113c1-d2ac-4a95-833c-b844a0395098.png)
+
+
 Before the code implementation good knowlage about 
 1.Array
 1.While loop
